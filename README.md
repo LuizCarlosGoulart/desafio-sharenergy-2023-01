@@ -56,6 +56,7 @@ Construir uma aplicação web (frontend e backend) capaz de realizar a comunica�
 - TypeScript
 - HTML e CSS
 
+
 ### Aprimoramentos adicionais da aplicação (opcional)
 
 A aplicação criada para o desafio pode ser aprimorada com recursos pensados por você. A seguir, foram listadas algumas sugestões do que poderia ser feito:
