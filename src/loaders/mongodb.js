@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 async function startDB() {
-    await mongoose.connect('mongodb+srv://admin:123@cluster0.dgfrnvb.mongodb.net/test')
+    await mongoose.connect(process.env.MONGODB_API_URL)
 }
 
 module.exports = startDB
